@@ -1,0 +1,12 @@
+Ad :Gokce
+ Soyad :Cakmak
+ Favori Yemek :Manti
+ 
+Ad :Gokce
+ Soyad :Cakmak
+ Favori Yemek :Manti
+ 
+ Ad :Gokce
+ Soyad :Cakmak
+ Favori Yemek :Manti
+ 
